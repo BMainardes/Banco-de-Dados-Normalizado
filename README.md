@@ -3,6 +3,8 @@ Este projeto foi desenvolvido como parte de uma atividade prática realizada em 
 
 # Tecnologias Utilizadas
 SGBD: MySQL
+
 Linguagem de Consulta: SQL
+
 Interface: pgAdmin 4
 
